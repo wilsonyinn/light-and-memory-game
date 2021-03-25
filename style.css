@@ -1,0 +1,102 @@
+/* CSS files add styling rules to your content */
+
+body {
+  background-color: #212f45;
+  color: white;
+  font-family: 'Nanum Gothic', sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-family: 'Nanum Gothic', sans-serif;
+  color: white;
+}
+
+button{
+  padding: 10px;
+  border-radius: 10px;
+  width: 5em;
+}
+
+#gameButtonArea > button{
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden{
+  display: none;
+}
+
+#display{
+  text-align: right;
+  font-size: 2em;
+}
+
+#lifeCounter{
+  text-align: right;
+  font-size: 2em;
+}
+#button1{
+  background-color: lightgreen;
+}
+
+#button2{
+  background-color: lightblue;
+}
+
+#button3{
+  background-color: pink;
+}
+
+#button4{
+  background-color: lightyellow;
+}
+
+#button5{
+  background-color: #ddb892; /*lighter brown*/
+}
+
+#button6{
+  background-color: #7209b7; /*lighter purple*/
+}
+
+#button7{
+  background-color: #ff9e00; /*lighter orange*/
+}
+
+#button8{
+  background-color: #e9ecef; /*light grey*/
+}
+
+#button1:active, #button1.lit{
+  background: green;
+}
+
+#button2:active, #button2.lit{
+  background: blue;
+}
+
+#button3:active, #button3.lit{
+  background: red;
+}
+
+#button4:active, #button4.lit{ /*darker yellow*/
+  background: #fee440;
+}
+
+#button5:active, #button5.lit{ /*darker brown*/
+  background: #7f5539;
+}
+
+#button6:active, #button6.lit{
+  background: #3a0ca3; /*darker purple*/
+}
+
+#button7:active, #button7.lit{
+  background: #ff6d00; /*darker orange*/
+}
+
+#button8:active, #button8.lit{
+  background: #6c757d; /*darker grey*/
+}
