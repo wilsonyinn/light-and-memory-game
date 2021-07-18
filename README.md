@@ -3,7 +3,7 @@ The Light and Sound Memory Game plays a randomized pattern consisting of light a
 
 ## Video Walkthrough
 
-[![Light and Sound Memory Game Video Walkthrough](http://img.youtube.com/vi/bGoakEoV1oE/0.jpg)](http://www.youtube.com/watch?v=YbGoakEoV1oE "Light and Sound Memory Game Video Walkthrough")
+[![Light and Sound Memory Game Video Walkthrough](http://img.youtube.com/vi/bGoakEoV1oE/0.jpg)](http://www.youtube.com/watch?v=bGoakEoV1oE "Light and Sound Memory Game Video Walkthrough")
 
 ## License
 
